@@ -1,0 +1,25 @@
+{
+  "name": "programa_formacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liesel/programa_formacao.git"
+  },
+  "keywords": [
+    "formacao"
+  ],
+  "author": "Joel Backschat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liesel/programa_formacao/issues"
+  },
+  "homepage": "https://github.com/liesel/programa_formacao#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
